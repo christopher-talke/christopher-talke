@@ -43,7 +43,7 @@ But honestly, I’ll pick up whatever gets the job done. Bash, Docker, Python, P
 This profile is a bit of a dumping ground for stuff I’ve made. Some polished, some half-finished, most of it built to solve problems I had or to learn something new.
 
 - 🕹️ [SPT Raid Review](https://github.com/ekky-llc/spt-raid-review), A self-hostable, browser-based replay system for **Escape From Tarkov (SPT)**, because watching back your own failures is the best way to improve... or suffer twice.
-- 💼 [SwiftCPQ](https://github.com/christopher-talke/SwiftCPQ), A configure, price, quote (CPQ) tool for IT consultants with the idea to let you build detailed proposals fast and in a reusable fashion, without the enterprise BS price tag.
+- 💼 [SwiftCPQ](https://github.com/christopher-talke/SwiftCPQ), A configure, price, quote (CPQ) tool for IT consultants with the idea to let you build detailed proposals fast and in a reusable fashion, without the enterprise 💩 price tag.
 
 ### Other bits and bobs
 
