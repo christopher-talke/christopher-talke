@@ -14,7 +14,7 @@ I’m [Christopher Talke](https://talke.dev) a 🇩🇪 🇵🇭 self-taught dev
 
 I love building stuff for the web, but **Automation**, **DevOps**, and **Security** are where my interests lie right now. 
 
-I've got a bit of a habit of finding security issues in the wild, exposed APIs, PII leaks, overly trusting apps, you name it (I'm not hunting for them, I just seem to catch them randomly).
+I've got a bit of a habit of finding security issues in the wild, exposed APIs, PII leaks, overly trusting apps, you name it (I'm not hunting for them, I just seem to catch them randomly), here are three notable ones:
 
 - 250k+ accommodation booking records (including staff addresses) exposed via unsecured API and cached in localStorage.
 - Hashed passwords and PII stored in localStorage due to misconfigured state caching in production frontend.
