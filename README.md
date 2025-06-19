@@ -42,11 +42,14 @@ But honestly, I’ll pick up whatever gets the job done. Bash, Docker, Python, P
 
 This profile is a bit of a dumping ground for stuff I’ve made. Some polished, some half-finished, most of it built to solve problems I had or to learn something new.
 
+### Active Proejcts
+
 - 🕹️ [SPT Raid Review](https://github.com/ekky-llc/spt-raid-review), A self-hostable, browser-based replay system for **Escape From Tarkov (SPT)**, because watching back your own failures is the best way to improve... or suffer twice.
 - 💼 [SwiftCPQ](https://github.com/christopher-talke/SwiftCPQ), A configure, price, quote (CPQ) tool for IT consultants with the idea to let you build detailed proposals fast and in a reusable fashion, without the enterprise 💩 price tag.
 
 ### Other bits and bobs
 
+- 🤖 [FindMeARentalBot](https://github.com/findmearentalbot/findmearentalbot), A rental property scraping bot to automate property searches.
 - 🖨️ [Puppeteer in a Container](https://github.com/christopher-talke/node-express-puppeteer-pdf-example), PDF rendering from HTML via Node inside Docker.
 - 🧠 [2D Raycasting w/o Canvas](https://github.com/christopher-talke/prototype-game), a little brain-bender project using DOM + geometry.
 - 📶 [NL1901 LTE Inspector](https://github.com/christopher-talke/nl1901acv-lte-inspector), hacked together a modem dashboard out of sheer spite.
