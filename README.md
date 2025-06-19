@@ -2,7 +2,7 @@
 
 # 👋🏾 G'day m8, ow's it goen?
 
-**Me**
+### Who
 
 My name is [Christopher Talke](https://talke.dev), a 🇦🇺 🇩🇪 🇵🇭 self-taught developer from Australia.
 
@@ -10,15 +10,21 @@ My name is [Christopher Talke](https://talke.dev), a 🇦🇺 🇩🇪 🇵🇭 
 - Ocassionally I offer ICT Consulting to the Small/Medium Business, covering anything from on-prem hardware, lan/wan networking, cloud solutions, telephony to data automation and custom software. Just helping people solve problems with the right technology that fits the bill.
 - Prior to this I worked in Customer Success, Sales, Procurement and Customer Service.
 
-**Workin On**
+### What
 
 This profile is my home for all of my personal projects, have a poke around, this place doesn't get as much love as it should, but here is what I'm currently working on.
 
 - [SPT Raid Review](https://github.com/ekky-llc/spt-raid-review), a browser based self-hostable replay system modification for the game Escape From Tarkov... well... the singleplayer variant "SPT".
 - [SwiftCPQ](https://github.com/christopher-talke/SwiftCPQ), my passion project that doesn't nearly get the attention it needs, a configure, price, quote (CPQ) tool to make it easier for the individual it consultant to draw up detailed proposals for customers in a reusable fashion without the hefty price tag.
 
-Anything else here is either proof of concepts to show others how I did things (e.g. [Puppeteer in a Container](https://github.com/christopher-talke/node-express-puppeteer-pdf-example)), make things to learn (e.g. [docker-cli-supabase](https://github.com/christopher-talke/docker-cli-supabase)) silly ideas with constraints to test my brain (e.g. [2D Raycasting w/o Canvas](https://github.com/christopher-talke/prototype-game)), or little hacky projects to solve problems for myself in a overly specific and complicated way (e.g. [NL1901 LTE Inspector](https://github.com/christopher-talke/nl1901acv-lte-inspector)).
+Anything else here is either proof of concepts to show others how I did things (e.g. [Puppeteer in a Container](https://github.com/christopher-talke/node-express-puppeteer-pdf-example)).
 
-**Get In Touch**
+Little projects just for the sake of making things in order to learn (e.g. [docker-cli-supabase](https://github.com/christopher-talke/docker-cli-supabase)).
 
-👈🏾 Look over here
+Silly ideas with constraints to test my brain (e.g. [2D Raycasting w/o Canvas](https://github.com/christopher-talke/prototype-game)).
+
+...or little hacky projects to solve problems for myself in a overly specific and complicated way (e.g. [NL1901 LTE Inspector](https://github.com/christopher-talke/nl1901acv-lte-inspector)).
+
+### Contact
+
+If you click one of the links in the left panel, you'll figure out a way to reach me.
