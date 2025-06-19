@@ -12,7 +12,7 @@ I’m [Christopher Talke](https://talke.dev) a 🇩🇪 🇵🇭 self-taught dev
 - Occasionally offer **ICT consulting for SMBs**; on-prem gear, networking, cloud migrations, automation, telephony, you name it.
 - Before all this, I was in **Customer Success, Sales, Procurement, and Support**, which basically means I speak human too.
 
-I love building stuff for the web, but **Automation**, **DevOps**, and **Security** are where I interest lie right now.
+I love building stuff for the web, but **Automation**, **DevOps**, and **Security** are where my interests lie right now.
 
 ---
 
