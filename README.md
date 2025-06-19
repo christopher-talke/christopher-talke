@@ -18,7 +18,7 @@ Whilst I love building on the **web**, **automation/ops** is my passion, coupled
 
 I mostly work with ![ts](https://flat.badgen.net/badge/-/TypeScript/blue?icon=typescript&label) `&&` [![.NET](https://img.shields.io/badge/--512BD4?logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/) and deploy on [![Azure](https://badgen.net/badge/icon/azure?icon=azure&label)](https://azure.microsoft.com). 
 
-But I'll pick up whatever hardware, cloud, language, runtime, library or whatever is needed to get the job done the right.
+But I'll pick up whatever hardware, cloud, language, runtime, or library is needed to get the job done the right way.
 
 **Personal**
 
