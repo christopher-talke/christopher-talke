@@ -16,9 +16,9 @@ I love building stuff for the web, but **Automation**, **DevOps**, and **Securit
 
 I've got a bit of a habit of finding security issues in the wild, exposed APIs, PII leaks, overly trusting apps, you name it (I'm not hunting for them, I just seem to catch them randomly). Most of them aren’t flashy, or amazing discoveries, just the kind of stuff that slips through when no one's paying attention:
 
-- 250k+ accomodation booking records exposed in an unsecured api.
-- Hashed passwords being stored in LocalStorage, and reachable in their API.
-- Debug tools being left open on an Australia Election App with 500k users.
+- 250k+ accommodation booking records (including staff addresses) exposed via unsecured API and cached in localStorage.
+- Hashed passwords and PII stored in localStorage due to misconfigured state caching in production frontend.
+- Django debug mode left enabled in live election platform, exposing credentials, infrastructure details, and metrics data showing usage of 500k+ users over the last 28 days.
 
 So I’ve helped clean up some pretty hairy situations for orgs, nothing crazy, and I’ve written about a few of them [here](https://talke.dev) if you’re into that kinda thing.
 
