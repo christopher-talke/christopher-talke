@@ -8,7 +8,7 @@
 
 I’m [Christopher Talke](https://talke.dev) a 🇩🇪 🇵🇭 self-taught dev based in Australia.
 
-- Currently working as a **Systems & Integrations Developer** at [Canopi Online](https://www.canopi.com.au), slinging **TypeScript** and **C#**, wiring up APIs, automating stuff, managaing infra. and making training/compliance less painful for orgs.
+- Currently working as a **Systems & Integrations Developer** at [Canopi Online](https://www.canopi.com.au),  writing **TypeScript** and **C#** to wire up APIs, automate stuff, manage infra. and make training/compliance less painful for orgs.
 - Occasionally offer **ICT consulting for SMBs**; on-prem gear, networking, cloud migrations, automation, telephony, you name it.
 - Before all this, I was in **Customer Success, Sales, Procurement, and Support**, which basically means I speak human too.
 
