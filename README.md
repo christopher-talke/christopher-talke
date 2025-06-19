@@ -45,7 +45,7 @@ This profile is a bit of a dumping ground for stuff I’ve made. Some polished, 
 - 🕹️ [SPT Raid Review](https://github.com/ekky-llc/spt-raid-review), A self-hostable, browser-based replay system for **Escape From Tarkov (SPT)**, because watching back your own failures is the best way to improve... or suffer twice.
 - 💼 [SwiftCPQ](https://github.com/christopher-talke/SwiftCPQ), A configure, price, quote (CPQ) tool for IT consultants with the idea to build detailed proposals fast and in a  reusable fashing, without the enterprise BS.
 
-### 🧪 Other bits and bobs
+### Other bits and bobs
 
 - 🖨️ [Puppeteer in a Container](https://github.com/christopher-talke/node-express-puppeteer-pdf-example), PDF rendering from HTML via Node inside Docker.
 - 🧠 [2D Raycasting w/o Canvas](https://github.com/christopher-talke/prototype-game), a little brain-bender project using DOM + geometry.
