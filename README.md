@@ -30,7 +30,7 @@ I’ve written about a few of them [here](https://talke.dev) if you’re into th
 
 I mostly work with:
 
-![TypeScript](https://flat.badgen.net/badge/-/TypeScript/blue?icon=typescript&label)  
+![TypeScript](https://flat.badgen.net/badge/-/TypeScript/blue?icon=typescript&label) ![HTML](https://img.shields.io/badge/HTML-orange) ![CSS](https://img.shields.io/badge/CSS-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)  
 ![Azure](https://badgen.net/badge/icon/azure?icon=azure&label)
 
