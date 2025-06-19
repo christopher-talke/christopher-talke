@@ -2,7 +2,7 @@
 
 # 👋🏾 G'day m8, ow's it goen?
 
-### Who
+### About
 
 My name is [Christopher Talke](https://talke.dev), a 🇦🇺 🇩🇪 🇵🇭 self-taught developer from Australia.
 
@@ -12,15 +12,13 @@ My name is [Christopher Talke](https://talke.dev), a 🇦🇺 🇩🇪 🇵🇭 
 
 Whilst I love building on the **web**, **automation/ops** is my passion, coupled with a deep interest in **security on the web**.
 
-### What
-
-**Professional**
+### Tooling
 
 I mostly work with ![ts](https://flat.badgen.net/badge/-/TypeScript/blue?icon=typescript&label) `&&` [![.NET](https://img.shields.io/badge/--512BD4?logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/) and deploy on [![Azure](https://badgen.net/badge/icon/azure?icon=azure&label)](https://azure.microsoft.com). 
 
 But I'll pick up whatever hardware, cloud, language, runtime, or library is needed to get the job done the right way.
 
-**Personal**
+### Projects
 
 This profile is my home for all of my personal projects, have a poke around, this place doesn't get as much love as it should, but here is what I'm currently working on.
 
