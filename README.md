@@ -2,6 +2,8 @@
 
 # 👋🏾 G'day m8, ow's it goen?
 
+🇦🇺 🇩🇪 🇵🇭
+
 My name is [Christopher Talke](https://talke.dev), a self-taught developer from Australia.
 
 - Currently working as a Systems & Integrations Developer at Canopi Online, building systems, tools and automations to support enterprises with compliance and training using TypeScript & C#.
