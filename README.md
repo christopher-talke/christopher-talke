@@ -30,11 +30,23 @@ I’ve written about a few of them [here](https://talke.dev) if you’re into th
 
 I mostly work with:
 
-![TypeScript](https://flat.badgen.net/badge/-/TypeScript/blue?icon=typescript&label) ![HTML](https://img.shields.io/badge/HTML-orange) ![CSS](https://img.shields.io/badge/CSS-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)  
-![Azure](https://badgen.net/badge/icon/azure?icon=azure&label)
+![TypeScript](https://flat.badgen.net/badge/:/TypeScript/blue?label=)
+![C#](https://flat.badgen.net/badge/:/C%23/purple?label=)
+![PowerShell](https://flat.badgen.net/badge/:/PowerShell/5391FE?label=)
+![Bash](https://flat.badgen.net/badge/:/Bash/gray?label=)
+![HTML](https://flat.badgen.net/badge/:/HTML/orange?label=)
+![CSS](https://flat.badgen.net/badge/:/CSS/blue?label=)
+![JavaScript](https://flat.badgen.net/badge/:/JavaScript/yellow?label=)
 
-But honestly, I’ll pick up whatever gets the job done. Bash, Docker, Python, PowerShell, even ol' Excel formulas if that’s what it takes.
+![Azure](https://flat.badgen.net/badge/:/Azure/007FFF?label=)
+![Cloudflare](https://flat.badgen.net/badge/:/Cloudflare/orange?label=)
+![Linux](https://flat.badgen.net/badge/:/Linux/green?label=)
+![Docker](https://flat.badgen.net/badge/:/Docker/2496ED?label=)
+![CI/CD](https://flat.badgen.net/badge/:/CI%2FCD/green?label=)
+![GitHub Actions](https://flat.badgen.net/badge/:/GitHub%20Actions/gray?label=)
+![Azure Pipelines](https://flat.badgen.net/badge/:/Azure%20Piplelines/007FFF?label=)
+
+But honestly, I’ll pick up whatever gets the job done, even ol' Excel formulas if that’s what it takes.
 
 ---
 
