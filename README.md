@@ -9,7 +9,7 @@
 I’m [Christopher Talke](https://talke.dev) a 🇩🇪 🇵🇭 self-taught dev based in Australia.
 
 - Currently working as a **Systems & Integrations Developer** at [Canopi Online](https://www.canopi.com.au),  writing **TypeScript** and **C#** to wire up APIs, automate stuff, manage infra. and make training/compliance less painful for orgs.
-- Moonlight as an **ICT Consultant** under [Talke Tech](https://talketech.com.au) for **SMBs**; on-prem gear, networking, cloud migrations, automation, telephony, you name it.
+- Moonlight as an **ICT Consultant** under [Talke Tech](https://talketech.com.au) for **SMBs**; on-prem gear, networking, cloud migrations, automation, telephony, you name it, and I'll do my best to help out.
 - Before all this, I was in **Customer Success, Sales, Procurement, and Support**, which basically means I speak human too.
 
 I love building stuff for the web, but **Automation**, **DevOps**, and **Security** are where my interests lie right now. 
