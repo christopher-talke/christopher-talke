@@ -76,3 +76,11 @@ Wanna chat dev, security, or weird infra puzzles?
 - 🌐 [https://talke.dev](https://talke.dev)
 - 💼 [LinkedIn](https://linkedin.com/in/christopher-talke)
 - 📧 Figure it out, if you’ve made it this far, you probably know how to `grep` an email.
+
+---
+
+## Wisdoms?
+
+I'll just echo something my old boss said to me...
+
+> "Hava go"
