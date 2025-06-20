@@ -18,7 +18,7 @@ I've got a bit of a habit of finding security issues in the wild, exposed APIs, 
 
 - 250k+ accommodation booking records (including staff addresses) exposed via unsecured API and cached in localStorage.
 - Hashed passwords and PII stored in localStorage due to misconfigured state caching in production frontend.
-- Django debug mode left enabled in a live political engagement platform for the 2025 Australian Federal Election, exposing credentials, infrastructure details, and platform metric showing usage of 500k+ users over the previous 28 days.
+- Django debug tools left enabled in production for a live political engagement platform for the 2025 Australian Federal Election, exposing credentials, infrastructure details, and platform metrics showing usage of 500k+ unique users.
 
 So I’ve helped clean up some pretty hairy situations for orgs, no crazy hax or amazing discoveries, just the kind of issues that get through when focus slips and bad practices are in-place.
 
