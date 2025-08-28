@@ -8,7 +8,8 @@
 
 I’m [Christopher Talke](https://talke.dev) a 🇩🇪 🇵🇭 self-taught dev based in Australia.
 
-- Currently working as a **Systems & Integrations Developer** at [Canopi Online](https://www.canopi.com.au),  writing **TypeScript** and **C#** to wire up APIs, automate stuff, manage infra. and make training/compliance less painful for orgs.
+- Currently working as a **DevSecOps Engineer** at [Regional Australia Bank](https://www.regionalaustraliabank.com.au/).
+- Previously a **Systems & Integrations Developer** at [Canopi Online](https://www.canopi.com.au),  writing **TypeScript** and **C#**.
 - Moonlight as an **ICT Consultant** under [Talke Tech](https://talketech.com.au) for **SMBs**; on-prem gear, networking, cloud migrations, automation, telephony, you name it, and I'll do my best to help out.
 - On a rare ocassion I will get asked to carry a camera and press record under [Talke Media](https://talkemedia.com); have had the pleasure of producing content for  organisations like Wesley Mission, Trinity Distribution, WWYW, and SWIFF Festival.
 - Before all this, I was in **Customer Success, Sales, Procurement, and Support**, which basically means I speak human too.
@@ -67,6 +68,7 @@ This profile is a bit of a dumping ground for stuff I’ve made. Some polished, 
 - 🧠 [2D Raycasting w/o Canvas](https://github.com/christopher-talke/prototype-game), a little brain-bender project using DOM + geometry.
 - 📶 [NL1901 LTE Inspector](https://github.com/christopher-talke/nl1901acv-lte-inspector), hacked together a modem dashboard out of sheer spite.
 - 🐳 [Supabase Docker Dev Env](https://github.com/christopher-talke/docker-cli-supabase), a quick local setup for hacking with Supabase to learn Bash.
+- ♦️ [Discord Roulette Bot](https://github.com/christopher-talke/DegenerateIdle), a discord bot to play roulette with friends across discord servers.
 
 ---
 
